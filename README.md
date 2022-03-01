@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I am Hossein Taheramooz  
+CE @ Shahid Beheshti University
+
 <!--
 **hosseintrz/hosseintrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
